@@ -1,0 +1,13 @@
+{
+    "name": "iglob",
+    "version": "0.1",
+    "description": "Incremental file scanner/globber",
+    "homepage": "http://www.pcapr.net",
+    "author": {
+        "name": "pcapr",
+        "url": "http://www.pcapr.net"
+    },
+    "engines": { 
+        "node": ">= 0.2.0" 
+    }
+}
