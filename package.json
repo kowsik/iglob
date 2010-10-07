@@ -1,6 +1,6 @@
 {
     "name": "iglob",
-    "version": "0.1",
+    "version": "0.1.0",
     "description": "Incremental file scanner/globber",
     "homepage": "http://www.pcapr.net",
     "author": {
